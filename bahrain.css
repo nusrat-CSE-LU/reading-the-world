@@ -1,0 +1,30 @@
+body{
+    margin-left: 25px;
+    background-image: url(pro.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.footer{ color:beige}
+.footer a{color:bisque}
+.myH1{
+    color: azure;
+    font-family: Arial, sans-serif;
+    font-size: 2.5em;
+}
+a{
+    text-decoration: none;
+}
+.arm{
+    font-size: x-large;
+    color: azure;
+}
+.arm a{
+    color:lemonchiffon;
+}
+.bahrain{
+    font-size: x-large;
+    color: azure;
+}
+.bahrain a{
+    color:lemonchiffon;
+}
